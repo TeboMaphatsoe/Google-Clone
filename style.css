@@ -1,6 +1,7 @@
 .main{
 
     margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
 
@@ -48,4 +49,9 @@
     cursor: pointer;
 }
 
- 
+ p{
+    text-align: center;
+    color: #5f6368;
+    font-size: 14px;
+    padding-top: 10px;
+ }
